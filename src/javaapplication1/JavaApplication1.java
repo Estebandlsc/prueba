@@ -20,7 +20,7 @@ public class JavaApplication1 {
     
     while(asd==3){
         
-        System.out.println("TTTTTTTTTTTTTTTTTTTT");
+        System.out.println("hola");
     }
     }
     
