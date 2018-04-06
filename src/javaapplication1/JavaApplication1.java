@@ -21,6 +21,7 @@ public class JavaApplication1 {
     while(asd<3){
         
         System.out.println("hola");
+        System.out.println("Cómo estás");
         asd++;
     }
     }
