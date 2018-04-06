@@ -24,6 +24,7 @@ public class JavaApplication1 {
         System.out.println("Cómo estás");
         System.out.println("A ver ahora");
         asd++;
+        asd--; //prueba esteban
     }
     }
     
