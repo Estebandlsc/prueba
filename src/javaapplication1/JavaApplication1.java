@@ -16,11 +16,12 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         
-    int asd=3;
+    int asd=0;
     
-    while(asd==3){
+    while(asd<3){
         
         System.out.println("hola");
+        asd++;
     }
     }
     
