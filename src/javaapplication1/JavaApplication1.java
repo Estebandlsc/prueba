@@ -19,7 +19,7 @@ public class JavaApplication1 {
     int asd=0;
     
     while(asd<3){
-        
+        //solo un comentario
         System.out.println("hola");
         System.out.println("Cómo estás");
         System.out.println("A ver ahora");
